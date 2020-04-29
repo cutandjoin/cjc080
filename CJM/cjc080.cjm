@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2,1\3
-REM DIRNAME cjc080,folder01,folder02
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2,1\3
+DIRNAME cjc080,folder01,folder02
 
+#
 ScrambleS_3Part1_Theme001.mp3
 00:00:00 3:cjc080_0001
 00:01:24 0:
@@ -13,6 +14,7 @@ ScrambleS_3Part1_Theme001.mp3
 00:17:65 0:
 00:19:03 2:cjc080_0005
 00:22:13 0:
+#
 ScrambleS_3Part1_Theme002.mp3
 00:00:00 3:cjc080_0006
 00:01:07 0:
@@ -24,6 +26,7 @@ ScrambleS_3Part1_Theme002.mp3
 00:14:09 0:
 00:15:25 2:cjc080_0010
 00:20:20 0:
+#
 ScrambleS_3Part1_Theme003.mp3
 00:00:00 3:cjc080_0011
 00:01:22 0:
@@ -31,6 +34,7 @@ ScrambleS_3Part1_Theme003.mp3
 00:05:71 0:
 00:07:07 2:cjc080_0013
 00:10:37 0:
+#
 ScrambleS_3Part1_Theme004.mp3
 00:00:00 3:cjc080_0014
 00:01:11 0:
@@ -46,6 +50,7 @@ ScrambleS_3Part1_Theme004.mp3
 00:27:00 0:
 00:28:27 2:cjc080_0020
 00:32:58 0:
+#
 ScrambleS_3Part1_Theme005.mp3
 00:00:00 3:cjc080_0021
 00:01:28 0:
@@ -53,6 +58,7 @@ ScrambleS_3Part1_Theme005.mp3
 00:06:45 0:
 00:07:68 2:cjc080_0023
 00:10:66 0:
+#
 ScrambleS_3Part1_Theme006.mp3
 00:00:00 3:cjc080_0024
 00:01:13 0:
@@ -64,6 +70,7 @@ ScrambleS_3Part1_Theme006.mp3
 00:16:00 0:
 00:17:14 2:cjc080_0028
 00:20:26 0:
+#
 ScrambleS_3Part1_Theme007.mp3
 00:00:00 3:cjc080_0029
 00:01:19 0:
@@ -79,6 +86,7 @@ ScrambleS_3Part1_Theme007.mp3
 00:25:62 0:
 00:27:08 2:cjc080_0035
 00:30:67 0:
+#
 ScrambleS_3Part1_Theme008.mp3
 00:00:00 3:cjc080_0036
 00:01:11 0:
@@ -86,6 +94,7 @@ ScrambleS_3Part1_Theme008.mp3
 00:05:42 0:
 00:06:51 2:cjc080_0038
 00:10:02 0:
+#
 ScrambleS_3Part1_Theme009.mp3
 00:00:00 3:cjc080_0039
 00:01:32 0:
@@ -95,6 +104,7 @@ ScrambleS_3Part1_Theme009.mp3
 00:10:39 0:
 00:11:54 2:cjc080_0042
 00:14:07 0:
+#
 ScrambleS_3Part1_Theme010.mp3
 00:00:00 3:cjc080_0043
 00:01:07 0:
@@ -102,6 +112,7 @@ ScrambleS_3Part1_Theme010.mp3
 00:04:66 0:
 00:06:08 2:cjc080_0045
 00:09:24 0:
+#
 ScrambleS_3Part1_Theme011.mp3
 00:00:00 3:cjc080_0046
 00:01:28 0:
@@ -109,6 +120,7 @@ ScrambleS_3Part1_Theme011.mp3
 00:05:32 0:
 00:06:51 2:cjc080_0048
 00:09:53 0:
+#
 ScrambleS_3Part1_Theme012.mp3
 00:00:00 3:cjc080_0049
 00:01:17 0:
@@ -118,6 +130,7 @@ ScrambleS_3Part1_Theme012.mp3
 00:09:28 0:
 00:10:49 2:cjc080_0052
 00:13:49 0:
+#
 ScrambleS_3Part1_Theme013.mp3
 00:00:00 3:cjc080_0053
 00:01:42 0:
@@ -125,6 +138,7 @@ ScrambleS_3Part1_Theme013.mp3
 00:06:35 0:
 00:07:52 2:cjc080_0055
 00:12:16 0:
+#
 ScrambleS_3Part1_Theme014.mp3
 00:00:00 3:cjc080_0056
 00:01:32 0:
@@ -134,6 +148,7 @@ ScrambleS_3Part1_Theme014.mp3
 00:09:49 0:
 00:10:66 2:cjc080_0059
 00:14:64 0:
+#
 ScrambleS_3Part1_Theme015.mp3
 00:00:00 3:cjc080_0060
 00:01:36 0:
@@ -143,6 +158,7 @@ ScrambleS_3Part1_Theme015.mp3
 00:13:30 0:
 00:14:53 2:cjc080_0063
 00:18:21 0:
+#
 ScrambleS_3Part1_Theme016.mp3
 00:00:00 3:cjc080_0064
 00:01:30 0:
@@ -162,6 +178,7 @@ ScrambleS_3Part1_Theme016.mp3
 00:29:62 0:
 00:31:14 2:cjc080_0072
 00:33:62 0:
+#
 ScrambleS_3Part1_Theme017.mp3
 00:00:00 3:cjc080_0073
 00:01:40 0:
@@ -173,6 +190,7 @@ ScrambleS_3Part1_Theme017.mp3
 00:17:65 0:
 00:19:15 2:cjc080_0077
 00:23:32 0:
+#
 ScrambleS_3Part1_Theme018.mp3
 00:00:00 3:cjc080_0078
 00:01:32 0:
@@ -182,6 +200,7 @@ ScrambleS_3Part1_Theme018.mp3
 00:09:24 0:
 00:10:39 2:cjc080_0081
 00:13:14 0:
+#
 ScrambleS_3Part1_Theme019.mp3
 00:00:00 3:cjc080_0082
 00:01:42 0:
@@ -189,6 +208,7 @@ ScrambleS_3Part1_Theme019.mp3
 00:06:61 0:
 00:08:05 2:cjc080_0084
 00:12:09 0:
+#
 ScrambleS_3Part1_Theme020.mp3
 00:00:00 3:cjc080_0085
 00:01:24 0:
@@ -198,6 +218,7 @@ ScrambleS_3Part1_Theme020.mp3
 00:10:63 0:
 00:12:05 2:cjc080_0088
 00:16:51 0:
+#
 ScrambleS_3Part1_Theme021.mp3
 00:00:00 3:cjc080_0089
 00:01:44 0:
@@ -207,6 +228,7 @@ ScrambleS_3Part1_Theme021.mp3
 00:12:38 0:
 00:13:55 2:cjc080_0092
 00:18:50 0:
+#
 ScrambleS_3Part1_Theme022.mp3
 00:00:00 3:cjc080_0093
 00:01:32 0:
@@ -218,6 +240,7 @@ ScrambleS_3Part1_Theme022.mp3
 00:19:40 0:
 00:20:57 2:cjc080_0097
 00:22:56 0:
+#
 ScrambleS_3Part1_Theme023.mp3
 00:00:00 3:cjc080_0098
 00:01:58 0:
@@ -235,6 +258,7 @@ ScrambleS_3Part1_Theme023.mp3
 00:28:53 0:
 00:29:70 2:cjc080_0105
 00:34:71 0:
+#
 ScrambleS_3Part1_Theme024.mp3
 00:00:00 3:cjc080_0106
 00:01:42 0:
@@ -252,6 +276,7 @@ ScrambleS_3Part1_Theme024.mp3
 00:28:21 0:
 00:29:38 2:cjc080_0113
 00:34:10 0:
+#
 ScrambleS_3Part1_Theme025.mp3
 00:00:00 3:cjc080_0114
 00:01:46 0:
@@ -263,6 +288,7 @@ ScrambleS_3Part1_Theme025.mp3
 00:11:64 0:
 00:13:14 2:cjc080_0118
 00:17:43 0:
+#
 ScrambleS_3Part1_Theme026.mp3
 00:00:00 3:cjc080_0119
 00:01:34 0:
@@ -272,6 +298,7 @@ ScrambleS_3Part1_Theme026.mp3
 00:10:59 0:
 00:11:74 2:cjc080_0122
 00:15:66 0:
+#
 ScrambleS_3Part1_Theme027.mp3
 00:00:00 3:cjc080_0123
 00:01:60 0:
@@ -295,6 +322,7 @@ ScrambleS_3Part1_Theme027.mp3
 00:41:08 0:
 00:42:19 2:cjc080_0133
 00:45:63 0:
+#
 ScrambleS_3Part1_Theme028.mp3
 00:00:00 3:cjc080_0134
 00:01:22 0:
@@ -304,6 +332,7 @@ ScrambleS_3Part1_Theme028.mp3
 00:10:12 0:
 00:11:37 2:cjc080_0137
 00:15:17 0:
+#
 ScrambleS_3Part1_Theme029.mp3
 00:00:00 3:cjc080_0138
 00:01:50 0:
@@ -315,6 +344,7 @@ ScrambleS_3Part1_Theme029.mp3
 00:17:16 0:
 00:18:37 2:cjc080_0142
 00:23:59 0:
+#
 ScrambleS_3Part1_Theme030.mp3
 00:00:00 3:cjc080_0143
 00:01:19 0:
@@ -322,6 +352,7 @@ ScrambleS_3Part1_Theme030.mp3
 00:06:33 0:
 00:07:49 2:cjc080_0145
 00:11:58 0:
+#
 ScrambleS_3Part1_Theme031.mp3
 00:00:00 3:cjc080_0146
 00:01:54 0:
@@ -341,6 +372,7 @@ ScrambleS_3Part1_Theme031.mp3
 00:31:04 0:
 00:32:25 2:cjc080_0154
 00:36:44 0:
+#
 ScrambleS_3Part1_Theme032.mp3
 00:00:00 3:cjc080_0155
 00:01:36 0:
@@ -348,6 +380,7 @@ ScrambleS_3Part1_Theme032.mp3
 00:06:28 0:
 00:07:45 2:cjc080_0157
 00:10:29 0:
+#
 ScrambleS_3Part1_Theme033.mp3
 00:00:00 3:cjc080_0158
 00:01:52 0:
@@ -361,6 +394,7 @@ ScrambleS_3Part1_Theme033.mp3
 00:21:57 0:
 00:22:74 2:cjc080_0163
 00:27:36 0:
+#
 ScrambleS_3Part1_Theme034.mp3
 00:00:00 3:cjc080_0164
 00:01:38 0:
@@ -374,6 +408,7 @@ ScrambleS_3Part1_Theme034.mp3
 00:19:15 0:
 00:20:32 2:cjc080_0169
 00:22:58 0:
+#
 ScrambleS_3Part1_Theme035.mp3
 00:00:00 3:cjc080_0170
 00:01:52 0:
@@ -383,6 +418,7 @@ ScrambleS_3Part1_Theme035.mp3
 00:12:34 0:
 00:13:47 2:cjc080_0173
 00:17:51 0:
+#
 ScrambleS_3Part1_Theme036.mp3
 00:00:00 3:cjc080_0174
 00:01:40 0:
@@ -410,6 +446,7 @@ ScrambleS_3Part1_Theme036.mp3
 00:48:10 0:
 00:48:61 2:cjc080_0186
 00:52:20 0:
+#
 ScrambleS_3Part1_Theme037.mp3
 00:00:00 3:cjc080_0187
 00:01:44 0:
@@ -421,6 +458,7 @@ ScrambleS_3Part1_Theme037.mp3
 00:16:38 0:
 00:17:47 2:cjc080_0191
 00:20:65 0:
+#
 ScrambleS_3Part1_Theme038.mp3
 00:00:00 3:cjc080_0192
 00:01:24 0:
@@ -428,6 +466,7 @@ ScrambleS_3Part1_Theme038.mp3
 00:04:66 0:
 00:06:08 2:cjc080_0194
 00:08:64 0:
+#
 ScrambleS_3Part1_Theme039.mp3
 00:00:00 3:cjc080_0195
 00:01:58 0:
@@ -435,6 +474,7 @@ ScrambleS_3Part1_Theme039.mp3
 00:06:24 0:
 00:07:47 2:cjc080_0197
 00:12:12 0:
+#
 ScrambleS_3Part1_Theme040.mp3
 00:00:00 3:cjc080_0198
 00:01:17 0:
@@ -448,6 +488,7 @@ ScrambleS_3Part1_Theme040.mp3
 00:19:20 0:
 00:19:67 2:cjc080_0203
 00:22:38 0:
+#
 ScrambleS_3Part1_Theme041.mp3
 00:00:00 3:cjc080_0204
 00:01:62 0:
@@ -457,6 +498,7 @@ ScrambleS_3Part1_Theme041.mp3
 00:13:12 0:
 00:14:02 2:cjc080_0207
 00:17:35 0:
+#
 ScrambleS_3Part1_Theme042.mp3
 00:00:00 3:cjc080_0208
 00:01:38 0:
@@ -464,6 +506,7 @@ ScrambleS_3Part1_Theme042.mp3
 00:06:35 0:
 00:07:56 2:cjc080_0210
 00:12:24 0:
+#
 ScrambleS_3Part1_Theme043.mp3
 00:00:00 3:cjc080_0211
 00:01:48 0:
@@ -475,6 +518,7 @@ ScrambleS_3Part1_Theme043.mp3
 00:15:68 0:
 00:17:08 2:cjc080_0215
 00:20:47 0:
+#
 ScrambleS_3Part1_Theme044.mp3
 00:00:00 3:cjc080_0216
 00:01:34 0:
@@ -486,6 +530,7 @@ ScrambleS_3Part1_Theme044.mp3
 00:15:40 0:
 00:16:53 2:cjc080_0220
 00:21:27 0:
+#
 ScrambleS_3Part1_Theme045.mp3
 00:00:00 3:cjc080_0221
 00:01:54 0:
@@ -493,6 +538,7 @@ ScrambleS_3Part1_Theme045.mp3
 00:07:15 0:
 00:08:30 2:cjc080_0223
 00:12:71 0:
+#
 ScrambleS_3Part1_Theme046.mp3
 00:00:00 3:cjc080_0224
 00:01:34 0:
@@ -502,6 +548,7 @@ ScrambleS_3Part1_Theme046.mp3
 00:11:13 0:
 00:12:28 2:cjc080_0227
 00:14:45 0:
+#
 ScrambleS_3Part1_Theme047.mp3
 00:00:00 3:cjc080_0228
 00:01:52 0:
@@ -511,6 +558,7 @@ ScrambleS_3Part1_Theme047.mp3
 00:14:13 0:
 00:15:28 2:cjc080_0231
 00:20:10 0:
+#
 ScrambleS_3Part1_Theme048.mp3
 00:00:00 3:cjc080_0232
 00:01:34 0:
@@ -518,6 +566,7 @@ ScrambleS_3Part1_Theme048.mp3
 00:05:57 0:
 00:06:71 2:cjc080_0234
 00:11:64 0:
+#
 ScrambleS_3Part1_Theme049.mp3
 00:00:00 3:cjc080_0235
 00:01:52 0:
@@ -531,6 +580,7 @@ ScrambleS_3Part1_Theme049.mp3
 00:24:20 0:
 00:25:39 2:cjc080_0240
 00:29:74 0:
+#
 ScrambleS_3Part1_Theme050.mp3
 00:00:00 3:cjc080_0241
 00:01:22 0:
@@ -546,6 +596,7 @@ ScrambleS_3Part1_Theme050.mp3
 00:25:48 0:
 00:26:22 2:cjc080_0247
 00:29:34 0:
+#
 ScrambleS_3Part1_Theme051.mp3
 00:00:00 3:cjc080_0248
 00:01:46 0:
@@ -553,6 +604,7 @@ ScrambleS_3Part1_Theme051.mp3
 00:05:57 0:
 00:07:02 2:cjc080_0250
 00:11:54 0:
+#
 ScrambleS_3Part1_Theme052.mp3
 00:00:00 3:cjc080_0251
 00:01:34 0:
@@ -564,6 +616,7 @@ ScrambleS_3Part1_Theme052.mp3
 00:15:30 0:
 00:16:53 2:cjc080_0255
 00:20:24 0:
+#
 ScrambleS_3Part1_Theme053.mp3
 00:00:00 3:cjc080_0256
 00:01:62 0:
@@ -575,6 +628,7 @@ ScrambleS_3Part1_Theme053.mp3
 00:17:02 0:
 00:18:11 2:cjc080_0260
 00:22:17 0:
+#
 ScrambleS_3Part1_Theme054.mp3
 00:00:00 3:cjc080_0261
 00:01:36 0:
@@ -582,6 +636,7 @@ ScrambleS_3Part1_Theme054.mp3
 00:05:24 0:
 00:06:39 2:cjc080_0263
 00:10:27 0:
+#
 ScrambleS_3Part1_Theme055.mp3
 00:00:00 3:cjc080_0264
 00:01:50 0:
@@ -591,6 +646,7 @@ ScrambleS_3Part1_Theme055.mp3
 00:12:56 0:
 00:14:02 2:cjc080_0267
 00:18:05 0:
+#
 ScrambleS_3Part1_Theme056.mp3
 00:00:00 3:cjc080_0268
 00:01:58 0:
@@ -610,6 +666,7 @@ ScrambleS_3Part1_Theme056.mp3
 00:34:38 0:
 00:35:55 2:cjc080_0276
 00:39:25 0:
+#
 ScrambleS_3Part1_Theme057.mp3
 00:00:00 3:cjc080_0277
 00:01:64 0:
@@ -619,6 +676,7 @@ ScrambleS_3Part1_Theme057.mp3
 00:15:01 0:
 00:16:14 2:cjc080_0280
 00:23:20 0:
+#
 ScrambleS_3Part1_Theme058.mp3
 00:00:00 3:cjc080_0281
 00:01:22 0:
@@ -626,6 +684,7 @@ ScrambleS_3Part1_Theme058.mp3
 00:05:12 0:
 00:06:35 2:cjc080_0283
 00:09:53 0:
+#
 ScrambleS_3Part1_Theme059.mp3
 00:00:00 3:cjc080_0284
 00:01:62 0:
@@ -641,6 +700,7 @@ ScrambleS_3Part1_Theme059.mp3
 00:26:07 0:
 00:26:62 2:cjc080_0290
 00:29:46 0:
+#
 ScrambleS_3Part1_Theme060.mp3
 00:00:00 3:cjc080_0291
 00:01:19 0:
@@ -662,6 +722,7 @@ ScrambleS_3Part1_Theme060.mp3
 00:37:42 0:
 00:38:61 2:cjc080_0300
 00:42:08 0:
+#
 ScrambleS_3Part1_Theme061.mp3
 00:00:00 3:cjc080_0301
 00:01:54 0:
@@ -673,6 +734,7 @@ ScrambleS_3Part1_Theme061.mp3
 00:17:23 0:
 00:18:44 2:cjc080_0305
 00:21:27 0:
+#
 ScrambleS_3Part1_Theme062.mp3
 00:00:00 3:cjc080_0306
 00:01:42 0:
@@ -682,6 +744,7 @@ ScrambleS_3Part1_Theme062.mp3
 00:09:69 0:
 00:11:07 2:cjc080_0309
 00:14:49 0:
+#
 ScrambleS_3Part1_Theme063.mp3
 00:00:00 3:cjc080_0310
 00:01:58 0:
@@ -701,6 +764,7 @@ ScrambleS_3Part1_Theme063.mp3
 00:34:32 0:
 00:35:43 2:cjc080_0318
 00:42:02 0:
+#
 ScrambleS_3Part1_Theme064.mp3
 00:00:00 3:cjc080_0319
 00:01:46 0:
@@ -722,6 +786,7 @@ ScrambleS_3Part1_Theme064.mp3
 00:40:50 0:
 00:41:69 2:cjc080_0328
 00:45:30 0:
+#
 ScrambleS_3Part1_Theme065.mp3
 00:00:00 3:cjc080_0329
 00:01:50 0:
@@ -737,6 +802,7 @@ ScrambleS_3Part1_Theme065.mp3
 00:25:29 0:
 00:26:42 2:cjc080_0335
 00:31:51 0:
+#
 ScrambleS_3Part1_Theme066.mp3
 00:00:00 3:cjc080_0336
 00:01:42 0:
@@ -744,6 +810,7 @@ ScrambleS_3Part1_Theme066.mp3
 00:06:65 0:
 00:08:03 2:cjc080_0338
 00:11:42 0:
+#
 ScrambleS_3Part1_Theme067.mp3
 00:00:00 3:cjc080_0339
 00:01:54 0:
@@ -753,6 +820,7 @@ ScrambleS_3Part1_Theme067.mp3
 00:13:16 0:
 00:14:37 2:cjc080_0342
 00:17:72 0:
+#
 ScrambleS_3Part1_Theme068.mp3
 00:00:00 3:cjc080_0343
 00:01:36 0:
@@ -766,6 +834,7 @@ ScrambleS_3Part1_Theme068.mp3
 00:18:54 0:
 00:20:00 2:cjc080_0348
 00:22:40 0:
+#
 ScrambleS_3Part1_Theme069.mp3
 00:00:00 3:cjc080_0349
 00:01:60 0:
@@ -777,6 +846,7 @@ ScrambleS_3Part1_Theme069.mp3
 00:15:09 0:
 00:16:20 2:cjc080_0353
 00:19:24 0:
+#
 ScrambleS_3Part1_Theme070.mp3
 00:00:00 3:cjc080_0354
 00:01:22 0:
@@ -784,6 +854,7 @@ ScrambleS_3Part1_Theme070.mp3
 00:06:67 0:
 00:08:01 2:cjc080_0356
 00:17:00 0:
+#
 ScrambleS_3Part1_Theme071.mp3
 00:00:00 3:cjc080_0357
 00:01:50 0:
@@ -805,6 +876,7 @@ ScrambleS_3Part1_Theme071.mp3
 00:32:72 0:
 00:33:46 2:cjc080_0366
 00:35:59 0:
+#
 ScrambleS_3Part1_Theme072.mp3
 00:00:00 3:cjc080_0367
 00:01:36 0:
@@ -812,6 +884,7 @@ ScrambleS_3Part1_Theme072.mp3
 00:05:52 0:
 00:06:69 2:cjc080_0369
 00:09:38 0:
+#
 ScrambleS_3Part1_Theme073.mp3
 00:00:00 3:cjc080_0370
 00:01:66 0:
@@ -823,6 +896,7 @@ ScrambleS_3Part1_Theme073.mp3
 00:17:02 0:
 00:18:13 2:cjc080_0374
 00:22:32 0:
+#
 ScrambleS_3Part1_Theme074.mp3
 00:00:00 3:cjc080_0375
 00:01:36 0:
@@ -834,6 +908,7 @@ ScrambleS_3Part1_Theme074.mp3
 00:17:12 0:
 00:18:27 2:cjc080_0379
 00:22:60 0:
+#
 ScrambleS_3Part1_Theme075.mp3
 00:00:00 3:cjc080_0380
 00:01:48 0:
@@ -847,11 +922,13 @@ ScrambleS_3Part1_Theme075.mp3
 00:19:28 0:
 00:20:41 2:cjc080_0385
 00:24:55 0:
+#
 ScrambleS_3Part1_Theme076.mp3
 00:00:00 3:cjc080_0386
 00:01:44 0:
 00:02:55 2:cjc080_0387
 00:06:73 0:
+#
 ScrambleS_3Part1_Theme077.mp3
 00:00:00 3:cjc080_0388
 00:01:62 0:
@@ -869,6 +946,7 @@ ScrambleS_3Part1_Theme077.mp3
 00:28:19 0:
 00:29:31 2:cjc080_0395
 00:33:13 0:
+#
 ScrambleS_3Part1_Theme078.mp3
 00:00:00 3:cjc080_0396
 00:01:38 0:
@@ -880,6 +958,7 @@ ScrambleS_3Part1_Theme078.mp3
 00:16:61 0:
 00:18:01 2:cjc080_0400
 00:20:53 0:
+#
 ScrambleS_3Part1_Theme079.mp3
 00:00:00 3:cjc080_0401
 00:01:48 0:
@@ -891,6 +970,7 @@ ScrambleS_3Part1_Theme079.mp3
 00:16:44 0:
 00:17:59 2:cjc080_0405
 00:21:45 0:
+#
 ScrambleS_3Part1_Theme080.mp3
 00:00:00 3:cjc080_0406
 00:01:17 0:
@@ -904,6 +984,7 @@ ScrambleS_3Part1_Theme080.mp3
 00:16:36 0:
 00:17:14 2:cjc080_0411
 00:20:37 0:
+#
 ScrambleS_3Part1_Theme081.mp3
 00:00:00 3:cjc080_0412
 00:01:58 0:
@@ -919,6 +1000,7 @@ ScrambleS_3Part1_Theme081.mp3
 00:29:38 0:
 00:30:48 2:cjc080_0418
 00:34:02 0:
+#
 ScrambleS_3Part1_Theme082.mp3
 00:00:00 3:cjc080_0419
 00:01:40 0:
@@ -928,6 +1010,7 @@ ScrambleS_3Part1_Theme082.mp3
 00:12:34 0:
 00:13:57 2:cjc080_0422
 00:17:55 0:
+#
 ScrambleS_3Part1_Theme083.mp3
 00:00:00 3:cjc080_0423
 00:01:46 0:
@@ -941,6 +1024,7 @@ ScrambleS_3Part1_Theme083.mp3
 00:21:68 0:
 00:23:06 2:cjc080_0428
 00:25:56 0:
+#
 ScrambleS_3Part1_Theme084.mp3
 00:00:00 3:cjc080_0429
 00:01:34 0:
@@ -960,6 +1044,7 @@ ScrambleS_3Part1_Theme084.mp3
 00:40:68 0:
 00:42:18 2:cjc080_0437
 00:45:39 0:
+#
 ScrambleS_3Part1_Theme085.mp3
 00:00:00 3:cjc080_0438
 00:01:62 0:
@@ -971,6 +1056,7 @@ ScrambleS_3Part1_Theme085.mp3
 00:17:33 0:
 00:18:39 2:cjc080_0442
 00:21:00 0:
+#
 ScrambleS_3Part1_Theme086.mp3
 00:00:00 3:cjc080_0443
 00:01:32 0:
@@ -980,6 +1066,7 @@ ScrambleS_3Part1_Theme086.mp3
 00:09:49 0:
 00:10:66 2:cjc080_0446
 00:14:00 0:
+#
 ScrambleS_3Part1_Theme087.mp3
 00:00:00 3:cjc080_0447
 00:01:48 0:
@@ -991,6 +1078,7 @@ ScrambleS_3Part1_Theme087.mp3
 00:14:04 0:
 00:15:15 2:cjc080_0451
 00:17:45 0:
+#
 ScrambleS_3Part1_Theme088.mp3
 00:00:00 3:cjc080_0452
 00:01:24 0:
@@ -1006,6 +1094,7 @@ ScrambleS_3Part1_Theme088.mp3
 00:20:02 0:
 00:21:17 2:cjc080_0458
 00:23:57 0:
+#
 ScrambleS_3Part1_Theme089.mp3
 00:00:00 3:cjc080_0459
 00:01:54 0:
@@ -1015,6 +1104,7 @@ ScrambleS_3Part1_Theme089.mp3
 00:08:15 0:
 00:08:66 2:cjc080_0462
 00:11:13 0:
+#
 ScrambleS_3Part1_Theme090.mp3
 00:00:00 3:cjc080_0463
 00:01:26 0:
@@ -1032,6 +1122,7 @@ ScrambleS_3Part1_Theme090.mp3
 00:27:61 0:
 00:29:07 2:cjc080_0470
 00:32:07 0:
+#
 ScrambleS_3Part1_Theme091.mp3
 00:00:00 3:cjc080_0471
 00:01:50 0:
@@ -1047,6 +1138,7 @@ ScrambleS_3Part1_Theme091.mp3
 00:24:20 0:
 00:25:35 2:cjc080_0477
 00:28:31 0:
+#
 ScrambleS_3Part1_Theme092.mp3
 00:00:00 3:cjc080_0478
 00:01:28 0:
@@ -1056,6 +1148,7 @@ ScrambleS_3Part1_Theme092.mp3
 00:12:16 0:
 00:13:32 2:cjc080_0481
 00:16:63 0:
+#
 ScrambleS_3Part1_Theme093.mp3
 00:00:00 3:cjc080_0482
 00:01:60 0:
@@ -1065,6 +1158,7 @@ ScrambleS_3Part1_Theme093.mp3
 00:10:63 0:
 00:12:07 2:cjc080_0485
 00:16:30 0:
+#
 ScrambleS_3Part1_Theme094.mp3
 00:00:00 3:cjc080_0486
 00:01:36 0:
@@ -1084,6 +1178,7 @@ ScrambleS_3Part1_Theme094.mp3
 00:34:69 0:
 00:36:13 2:cjc080_0494
 00:40:09 0:
+#
 ScrambleS_3Part1_Theme095.mp3
 00:00:00 3:cjc080_0495
 00:01:46 0:
@@ -1097,6 +1192,7 @@ ScrambleS_3Part1_Theme095.mp3
 00:20:61 0:
 00:22:01 2:cjc080_0500
 00:24:20 0:
+#
 ScrambleS_3Part1_Theme096.mp3
 00:00:00 3:cjc080_0501
 00:01:40 0:
@@ -1106,6 +1202,7 @@ ScrambleS_3Part1_Theme096.mp3
 00:12:24 0:
 00:13:35 2:cjc080_0504
 00:17:23 0:
+#
 ScrambleS_3Part1_Theme097.mp3
 00:00:00 3:cjc080_0505
 00:01:58 0:
@@ -1115,6 +1212,7 @@ ScrambleS_3Part1_Theme097.mp3
 00:13:59 0:
 00:14:70 2:cjc080_0508
 00:18:31 0:
+#
 ScrambleS_3Part1_Theme098.mp3
 00:00:00 3:cjc080_0509
 00:01:24 0:
@@ -1124,6 +1222,7 @@ ScrambleS_3Part1_Theme098.mp3
 00:11:21 0:
 00:12:50 2:cjc080_0512
 00:17:45 0:
+#
 ScrambleS_3Part1_Theme099.mp3
 00:00:00 3:cjc080_0513
 00:01:54 0:
@@ -1139,6 +1238,7 @@ ScrambleS_3Part1_Theme099.mp3
 00:24:04 0:
 00:25:19 2:cjc080_0519
 00:30:01 0:
+#
 ScrambleS_3Part1_Theme100.mp3
 00:00:00 3:cjc080_0520
 00:01:34 0:
@@ -1154,6 +1254,7 @@ ScrambleS_3Part1_Theme100.mp3
 00:23:12 0:
 00:24:25 2:cjc080_0526
 00:27:73 0:
+#
 ScrambleS_3Part1_Theme101.mp3
 00:00:00 3:cjc080_0527
 00:02:08 0:
@@ -1165,6 +1266,7 @@ ScrambleS_3Part1_Theme101.mp3
 00:15:52 0:
 00:16:61 2:cjc080_0531
 00:21:64 0:
+#
 ScrambleS_3Part1_Theme102.mp3
 00:00:00 3:cjc080_0532
 00:01:66 0:
@@ -1174,6 +1276,7 @@ ScrambleS_3Part1_Theme102.mp3
 00:16:65 0:
 00:18:09 2:cjc080_0535
 00:21:64 0:
+#
 ScrambleS_3Part1_Theme103.mp3
 00:00:00 3:cjc080_0536
 00:02:04 0:
@@ -1185,6 +1288,7 @@ ScrambleS_3Part1_Theme103.mp3
 00:14:66 0:
 00:16:02 2:cjc080_0540
 00:20:12 0:
+#
 ScrambleS_3Part1_Theme104.mp3
 00:00:00 3:cjc080_0541
 00:01:60 0:
@@ -1200,6 +1304,7 @@ ScrambleS_3Part1_Theme104.mp3
 00:24:39 0:
 00:25:50 2:cjc080_0547
 00:30:18 0:
+#
 ScrambleS_3Part1_Theme105.mp3
 00:00:00 3:cjc080_0548
 00:02:04 0:
@@ -1211,6 +1316,7 @@ ScrambleS_3Part1_Theme105.mp3
 00:15:70 0:
 00:17:08 2:cjc080_0552
 00:22:01 0:
+#
 ScrambleS_3Part1_Theme106.mp3
 00:00:00 3:cjc080_0553
 00:01:64 0:
@@ -1220,6 +1326,7 @@ ScrambleS_3Part1_Theme106.mp3
 00:11:25 0:
 00:12:44 2:cjc080_0556
 00:15:11 0:
+#
 ScrambleS_3Part1_Theme107.mp3
 00:00:00 3:cjc080_0557
 00:01:69 0:
@@ -1229,6 +1336,7 @@ ScrambleS_3Part1_Theme107.mp3
 00:10:61 0:
 00:12:01 2:cjc080_0560
 00:14:66 0:
+#
 ScrambleS_3Part1_Theme108.mp3
 00:00:00 3:cjc080_0561
 00:01:44 0:
@@ -1238,6 +1346,7 @@ ScrambleS_3Part1_Theme108.mp3
 00:12:69 0:
 00:14:21 2:cjc080_0564
 00:16:73 0:
+#
 ScrambleS_3Part1_Theme109.mp3
 00:00:00 3:cjc080_0565
 00:02:00 0:
@@ -1255,6 +1364,7 @@ ScrambleS_3Part1_Theme109.mp3
 00:29:74 0:
 00:31:16 2:cjc080_0572
 00:35:53 0:
+#
 ScrambleS_3Part1_Theme110.mp3
 00:00:00 3:cjc080_0573
 00:01:56 0:
@@ -1272,6 +1382,7 @@ ScrambleS_3Part1_Theme110.mp3
 00:29:74 0:
 00:31:27 2:cjc080_0580
 00:36:44 0:
+#
 ScrambleS_3Part1_Theme111.mp3
 00:00:00 3:cjc080_0581
 00:02:02 0:
@@ -1287,6 +1398,7 @@ ScrambleS_3Part1_Theme111.mp3
 00:25:72 0:
 00:27:08 2:cjc080_0587
 00:30:50 0:
+#
 ScrambleS_3Part1_Theme112.mp3
 00:00:00 3:cjc080_0588
 00:01:58 0:
@@ -1296,6 +1408,7 @@ ScrambleS_3Part1_Theme112.mp3
 00:12:28 0:
 00:13:49 2:cjc080_0591
 00:18:01 0:
+#
 ScrambleS_3Part1_Theme113.mp3
 00:00:00 3:cjc080_0592
 00:02:16 0:
@@ -1307,6 +1420,7 @@ ScrambleS_3Part1_Theme113.mp3
 00:18:17 0:
 00:19:42 2:cjc080_0596
 00:24:41 0:
+#
 ScrambleS_3Part1_Theme114.mp3
 00:00:00 3:cjc080_0597
 00:01:62 0:
@@ -1316,6 +1430,7 @@ ScrambleS_3Part1_Theme114.mp3
 00:12:44 0:
 00:13:53 2:cjc080_0600
 00:17:31 0:
+#
 ScrambleS_3Part1_Theme115.mp3
 00:00:00 3:cjc080_0601
 00:02:12 0:
@@ -1325,6 +1440,7 @@ ScrambleS_3Part1_Theme115.mp3
 00:12:40 0:
 00:13:51 2:cjc080_0604
 00:18:01 0:
+#
 ScrambleS_3Part1_Theme116.mp3
 00:00:00 3:cjc080_0605
 00:01:58 0:
@@ -1334,6 +1450,7 @@ ScrambleS_3Part1_Theme116.mp3
 00:12:63 0:
 00:14:00 2:cjc080_0608
 00:18:23 0:
+#
 ScrambleS_3Part1_Theme117.mp3
 00:00:00 3:cjc080_0609
 00:02:20 0:
@@ -1343,6 +1460,7 @@ ScrambleS_3Part1_Theme117.mp3
 00:12:71 0:
 00:14:15 2:cjc080_0612
 00:18:50 0:
+#
 ScrambleS_3Part1_Theme118.mp3
 00:00:00 3:cjc080_0613
 00:01:60 0:
@@ -1354,6 +1472,7 @@ ScrambleS_3Part1_Theme118.mp3
 00:16:30 0:
 00:17:51 2:cjc080_0617
 00:20:24 0:
+#
 ScrambleS_3Part1_Theme119.mp3
 00:00:00 3:cjc080_0618
 00:02:18 0:
@@ -1363,6 +1482,7 @@ ScrambleS_3Part1_Theme119.mp3
 00:11:46 0:
 00:12:54 2:cjc080_0621
 00:16:49 0:
+#
 ScrambleS_3Part1_Theme120.mp3
 00:00:00 3:cjc080_0622
 00:01:62 0:
@@ -1372,6 +1492,7 @@ ScrambleS_3Part1_Theme120.mp3
 00:12:40 0:
 00:13:55 2:cjc080_0625
 00:17:04 0:
+#
 ScrambleS_3Part1_Theme121.mp3
 00:00:00 3:cjc080_0626
 00:02:22 0:
@@ -1381,6 +1502,7 @@ ScrambleS_3Part1_Theme121.mp3
 00:13:16 0:
 00:14:27 2:cjc080_0629
 00:18:35 0:
+#
 ScrambleS_3Part1_Theme122.mp3
 00:00:00 3:cjc080_0630
 00:01:73 0:
@@ -1390,6 +1512,7 @@ ScrambleS_3Part1_Theme122.mp3
 00:11:31 0:
 00:12:52 2:cjc080_0633
 00:19:63 0:
+#
 ScrambleS_3Part1_Theme123.mp3
 00:00:00 3:cjc080_0634
 00:02:22 0:
@@ -1397,6 +1520,7 @@ ScrambleS_3Part1_Theme123.mp3
 00:06:59 0:
 00:07:74 2:cjc080_0636
 00:12:38 0:
+#
 ScrambleS_3Part1_Theme124.mp3
 00:00:00 3:cjc080_0637
 00:02:00 0:
@@ -1408,6 +1532,7 @@ ScrambleS_3Part1_Theme124.mp3
 00:14:53 0:
 00:15:68 2:cjc080_0641
 00:21:29 0:
+#
 ScrambleS_3Part2_Theme125.mp3
 00:00:00 3:cjc080_0642
 00:02:24 0:
@@ -1425,6 +1550,7 @@ ScrambleS_3Part2_Theme125.mp3
 00:27:49 0:
 00:28:59 2:cjc080_0649
 00:31:33 0:
+#
 ScrambleS_3Part2_Theme126.mp3
 00:00:00 3:cjc080_0650
 00:02:06 0:
@@ -1442,6 +1568,7 @@ ScrambleS_3Part2_Theme126.mp3
 00:26:09 0:
 00:27:26 2:cjc080_0657
 00:32:15 0:
+#
 ScrambleS_3Part2_Theme127.mp3
 00:00:00 3:cjc080_0658
 00:02:26 0:
@@ -1461,6 +1588,7 @@ ScrambleS_3Part2_Theme127.mp3
 00:39:47 0:
 00:40:60 2:cjc080_0666
 00:51:73 0:
+#
 ScrambleS_3Part2_Theme128.mp3
 00:00:00 3:cjc080_0667
 00:01:71 0:
@@ -1478,6 +1606,7 @@ ScrambleS_3Part2_Theme128.mp3
 00:29:27 0:
 00:30:44 2:cjc080_0674
 00:34:24 0:
+#
 ScrambleS_3Part2_Theme129.mp3
 00:00:00 3:cjc080_0675
 00:02:28 0:
@@ -1495,6 +1624,7 @@ ScrambleS_3Part2_Theme129.mp3
 00:30:54 0:
 00:31:59 2:cjc080_0682
 00:35:12 0:
+#
 ScrambleS_3Part2_Theme130.mp3
 00:00:00 3:cjc080_0683
 00:01:60 0:
@@ -1504,6 +1634,7 @@ ScrambleS_3Part2_Theme130.mp3
 00:11:09 0:
 00:12:28 2:cjc080_0686
 00:14:60 0:
+#
 ScrambleS_3Part2_Theme131.mp3
 00:00:00 3:cjc080_0687
 00:02:14 0:
@@ -1513,6 +1644,7 @@ ScrambleS_3Part2_Theme131.mp3
 00:14:37 0:
 00:15:50 2:cjc080_0690
 00:18:25 0:
+#
 ScrambleS_3Part2_Theme132.mp3
 00:00:00 3:cjc080_0691
 00:02:04 0:
@@ -1522,6 +1654,7 @@ ScrambleS_3Part2_Theme132.mp3
 00:11:56 0:
 00:12:69 2:cjc080_0694
 00:16:08 0:
+#
 ScrambleS_3Part2_Theme133.mp3
 00:00:00 3:cjc080_0695
 00:02:26 0:
@@ -1529,6 +1662,7 @@ ScrambleS_3Part2_Theme133.mp3
 00:07:11 0:
 00:08:19 2:cjc080_0697
 00:13:26 0:
+#
 ScrambleS_3Part2_Theme134.mp3
 00:00:00 3:cjc080_0698
 00:01:71 0:
@@ -1536,6 +1670,7 @@ ScrambleS_3Part2_Theme134.mp3
 00:06:06 0:
 00:07:31 2:cjc080_0700
 00:09:59 0:
+#
 ScrambleS_3Part2_Theme135.mp3
 00:00:00 3:cjc080_0701
 00:02:18 0:
@@ -1543,6 +1678,7 @@ ScrambleS_3Part2_Theme135.mp3
 00:07:74 0:
 00:09:18 2:cjc080_0703
 00:14:49 0:
+#
 ScrambleS_3Part2_Theme136.mp3
 00:00:00 3:cjc080_0704
 00:02:04 0:
@@ -1550,6 +1686,7 @@ ScrambleS_3Part2_Theme136.mp3
 00:05:40 0:
 00:06:53 2:cjc080_0706
 00:09:22 0:
+#
 ScrambleS_3Part2_Theme137.mp3
 00:00:00 3:cjc080_0707
 00:02:12 0:
@@ -1557,6 +1694,7 @@ ScrambleS_3Part2_Theme137.mp3
 00:06:24 0:
 00:07:35 2:cjc080_0709
 00:10:43 0:
+#
 ScrambleS_3Part2_Theme138.mp3
 00:00:00 3:cjc080_0710
 00:01:60 0:
@@ -1574,6 +1712,7 @@ ScrambleS_3Part2_Theme138.mp3
 00:22:62 0:
 00:24:04 2:cjc080_0717
 00:28:66 0:
+#
 ScrambleS_3Part2_Theme139.mp3
 00:00:00 3:cjc080_0718
 00:02:26 0:
@@ -1589,6 +1728,7 @@ ScrambleS_3Part2_Theme139.mp3
 00:27:49 0:
 00:28:59 2:cjc080_0724
 00:31:57 0:
+#
 ScrambleS_3Part2_Theme140.mp3
 00:00:00 3:cjc080_0725
 00:01:54 0:
@@ -1610,6 +1750,7 @@ ScrambleS_3Part2_Theme140.mp3
 00:35:08 0:
 00:36:29 2:cjc080_0734
 00:39:51 0:
+#
 ScrambleS_3Part2_Theme141.mp3
 00:00:00 3:cjc080_0735
 00:02:12 0:
@@ -1627,6 +1768,7 @@ ScrambleS_3Part2_Theme141.mp3
 00:32:45 0:
 00:33:56 2:cjc080_0742
 00:39:33 0:
+#
 ScrambleS_3Part2_Theme142.mp3
 00:00:00 3:cjc080_0743
 00:02:00 0:
@@ -1642,6 +1784,7 @@ ScrambleS_3Part2_Theme142.mp3
 00:25:48 0:
 00:26:66 2:cjc080_0749
 00:30:03 0:
+#
 ScrambleS_3Part2_Theme143.mp3
 00:00:00 3:cjc080_0750
 00:02:30 0:
@@ -1655,6 +1798,7 @@ ScrambleS_3Part2_Theme143.mp3
 00:24:45 0:
 00:25:56 2:cjc080_0755
 00:28:51 0:
+#
 ScrambleS_3Part2_Theme144.mp3
 00:00:00 3:cjc080_0756
 00:01:73 0:
@@ -1664,6 +1808,7 @@ ScrambleS_3Part2_Theme144.mp3
 00:10:51 0:
 00:11:68 2:cjc080_0759
 00:14:51 0:
+#
 ScrambleS_3Part2_Theme145.mp3
 00:00:00 3:cjc080_0760
 00:02:14 0:
@@ -1673,6 +1818,7 @@ ScrambleS_3Part2_Theme145.mp3
 00:12:28 0:
 00:13:37 2:cjc080_0763
 00:18:07 0:
+#
 ScrambleS_3Part2_Theme146.mp3
 00:00:00 3:cjc080_0764
 00:01:73 0:
@@ -1688,6 +1834,7 @@ ScrambleS_3Part2_Theme146.mp3
 00:24:49 0:
 00:25:70 2:cjc080_0770
 00:29:44 0:
+#
 ScrambleS_3Part2_Theme147.mp3
 00:00:00 3:cjc080_0771
 00:02:26 0:
@@ -1699,6 +1846,7 @@ ScrambleS_3Part2_Theme147.mp3
 00:17:14 0:
 00:18:25 2:cjc080_0775
 00:20:20 0:
+#
 ScrambleS_3Part2_Theme148.mp3
 00:00:00 3:cjc080_0776
 00:01:58 0:
@@ -1710,6 +1858,7 @@ ScrambleS_3Part2_Theme148.mp3
 00:15:54 0:
 00:16:67 2:cjc080_0780
 00:20:37 0:
+#
 ScrambleS_3Part2_Theme149.mp3
 00:00:00 3:cjc080_0781
 00:02:14 0:
@@ -1721,6 +1870,7 @@ ScrambleS_3Part2_Theme149.mp3
 00:13:14 0:
 00:14:23 2:cjc080_0785
 00:16:73 0:
+#
 ScrambleS_3Part2_Theme150.mp3
 00:00:00 3:cjc080_0786
 00:01:50 0:
@@ -1732,6 +1882,7 @@ ScrambleS_3Part2_Theme150.mp3
 00:14:47 0:
 00:15:66 2:cjc080_0790
 00:19:32 0:
+#
 ScrambleS_3Part2_Theme151.mp3
 00:00:00 3:cjc080_0791
 00:02:22 0:
@@ -1747,6 +1898,7 @@ ScrambleS_3Part2_Theme151.mp3
 00:26:32 0:
 00:27:41 2:cjc080_0797
 00:32:03 0:
+#
 ScrambleS_3Part2_Theme152.mp3
 00:00:00 3:cjc080_0798
 00:01:71 0:
@@ -1766,6 +1918,7 @@ ScrambleS_3Part2_Theme152.mp3
 00:35:41 0:
 00:36:23 2:cjc080_0806
 00:39:68 0:
+#
 ScrambleS_3Part2_Theme153.mp3
 00:00:00 3:cjc080_0807
 00:02:10 0:
@@ -1777,6 +1930,7 @@ ScrambleS_3Part2_Theme153.mp3
 00:18:70 0:
 00:20:04 2:cjc080_0811
 00:23:14 0:
+#
 ScrambleS_3Part2_Theme154.mp3
 00:00:00 3:cjc080_0812
 00:01:73 0:
@@ -1788,6 +1942,7 @@ ScrambleS_3Part2_Theme154.mp3
 00:18:07 0:
 00:19:26 2:cjc080_0816
 00:22:72 0:
+#
 ScrambleS_3Part2_Theme155.mp3
 00:00:00 3:cjc080_0817
 00:02:22 0:
@@ -1801,6 +1956,7 @@ ScrambleS_3Part2_Theme155.mp3
 00:20:16 0:
 00:21:33 2:cjc080_0822
 00:24:08 0:
+#
 ScrambleS_3Part2_Theme156.mp3
 00:00:00 3:cjc080_0823
 00:02:00 0:
@@ -1814,6 +1970,7 @@ ScrambleS_3Part2_Theme156.mp3
 00:20:47 0:
 00:21:64 2:cjc080_0828
 00:26:40 0:
+#
 ScrambleS_3Part2_Theme157.mp3
 00:00:00 3:cjc080_0829
 00:02:14 0:
@@ -1823,6 +1980,7 @@ ScrambleS_3Part2_Theme157.mp3
 00:12:01 0:
 00:13:06 2:cjc080_0832
 00:15:36 0:
+#
 ScrambleS_3Part2_Theme158.mp3
 00:00:00 3:cjc080_0833
 00:01:64 0:
@@ -1832,6 +1990,7 @@ ScrambleS_3Part2_Theme158.mp3
 00:10:25 0:
 00:11:44 2:cjc080_0836
 00:15:11 0:
+#
 ScrambleS_3Part2_Theme159.mp3
 00:00:00 3:cjc080_0837
 00:02:28 0:
@@ -1839,11 +1998,13 @@ ScrambleS_3Part2_Theme159.mp3
 00:06:73 0:
 00:08:11 2:cjc080_0839
 00:09:73 0:
+#
 ScrambleS_3Part2_Theme160.mp3
 00:00:00 3:cjc080_0840
 00:01:62 0:
 00:03:02 2:cjc080_0841
 00:06:33 0:
+#
 ScrambleS_3Part2_Theme161.mp3
 00:00:00 3:cjc080_0842
 00:02:22 0:
@@ -1853,6 +2014,7 @@ ScrambleS_3Part2_Theme161.mp3
 00:10:31 0:
 00:11:40 2:cjc080_0845
 00:14:07 0:
+#
 ScrambleS_3Part2_Theme162.mp3
 00:00:00 3:cjc080_0846
 00:01:73 0:
@@ -1868,6 +2030,7 @@ ScrambleS_3Part2_Theme162.mp3
 00:24:06 0:
 00:25:27 2:cjc080_0852
 00:28:19 0:
+#
 ScrambleS_3Part2_Theme163.mp3
 00:00:00 3:cjc080_0853
 00:02:14 0:
@@ -1885,6 +2048,7 @@ ScrambleS_3Part2_Theme163.mp3
 00:29:09 0:
 00:30:16 2:cjc080_0860
 00:34:43 0:
+#
 ScrambleS_3Part2_Theme164.mp3
 00:00:00 3:cjc080_0861
 00:02:02 0:
@@ -1900,6 +2064,7 @@ ScrambleS_3Part2_Theme164.mp3
 00:28:74 0:
 00:30:14 2:cjc080_0867
 00:33:24 0:
+#
 ScrambleS_3Part2_Theme165.mp3
 00:00:00 3:cjc080_0868
 00:02:20 0:
@@ -1911,6 +2076,7 @@ ScrambleS_3Part2_Theme165.mp3
 00:17:25 0:
 00:17:72 2:cjc080_0872
 00:20:65 0:
+#
 ScrambleS_3Part2_Theme166.mp3
 00:00:00 3:cjc080_0873
 00:02:06 0:
@@ -1920,6 +2086,7 @@ ScrambleS_3Part2_Theme166.mp3
 00:10:57 0:
 00:12:03 2:cjc080_0876
 00:15:21 0:
+#
 ScrambleS_3Part2_Theme167.mp3
 00:00:00 3:cjc080_0877
 00:02:20 0:
@@ -1931,6 +2098,7 @@ ScrambleS_3Part2_Theme167.mp3
 00:19:22 0:
 00:20:30 2:cjc080_0881
 00:23:71 0:
+#
 ScrambleS_3Part2_Theme168.mp3
 00:00:00 3:cjc080_0882
 00:02:02 0:
@@ -1938,6 +2106,7 @@ ScrambleS_3Part2_Theme168.mp3
 00:06:30 0:
 00:07:51 2:cjc080_0884
 00:12:30 0:
+#
 ScrambleS_3Part2_Theme169.mp3
 00:00:00 3:cjc080_0885
 00:02:22 0:
@@ -1949,6 +2118,7 @@ ScrambleS_3Part2_Theme169.mp3
 00:16:48 0:
 00:17:57 2:cjc080_0889
 00:21:31 0:
+#
 ScrambleS_3Part2_Theme170.mp3
 00:00:00 3:cjc080_0890
 00:01:62 0:
@@ -1956,6 +2126,7 @@ ScrambleS_3Part2_Theme170.mp3
 00:05:26 0:
 00:06:43 2:cjc080_0892
 00:10:41 0:
+#
 ScrambleS_3Part2_Theme171.mp3
 00:00:00 3:cjc080_0893
 00:02:16 0:
@@ -1971,6 +2142,7 @@ ScrambleS_3Part2_Theme171.mp3
 00:38:10 0:
 00:39:21 2:cjc080_0899
 00:45:28 0:
+#
 ScrambleS_3Part2_Theme172.mp3
 00:00:00 3:cjc080_0900
 00:02:00 0:
@@ -1982,6 +2154,7 @@ ScrambleS_3Part2_Theme172.mp3
 00:13:24 0:
 00:14:15 2:cjc080_0904
 00:16:57 0:
+#
 ScrambleS_3Part2_Theme173.mp3
 00:00:00 3:cjc080_0905
 00:02:30 0:
@@ -1991,6 +2164,7 @@ ScrambleS_3Part2_Theme173.mp3
 00:11:56 0:
 00:12:71 2:cjc080_0908
 00:16:10 0:
+#
 ScrambleS_3Part2_Theme174.mp3
 00:00:00 3:cjc080_0909
 00:02:06 0:
@@ -1998,6 +2172,7 @@ ScrambleS_3Part2_Theme174.mp3
 00:05:65 0:
 00:07:09 2:cjc080_0911
 00:11:15 0:
+#
 ScrambleS_3Part2_Theme175.mp3
 00:00:00 3:cjc080_0912
 00:02:18 0:
@@ -2011,6 +2186,7 @@ ScrambleS_3Part2_Theme175.mp3
 00:23:24 0:
 00:24:29 2:cjc080_0917
 00:27:39 0:
+#
 ScrambleS_3Part2_Theme176.mp3
 00:00:00 3:cjc080_0918
 00:02:08 0:
@@ -2028,6 +2204,7 @@ ScrambleS_3Part2_Theme176.mp3
 00:27:71 0:
 00:29:05 2:cjc080_0925
 00:31:08 0:
+#
 ScrambleS_3Part2_Theme177.mp3
 00:00:00 3:cjc080_0926
 00:02:28 0:
@@ -2045,6 +2222,7 @@ ScrambleS_3Part2_Theme177.mp3
 00:30:32 0:
 00:31:37 2:cjc080_0933
 00:36:44 0:
+#
 ScrambleS_3Part2_Theme178.mp3
 00:00:00 3:cjc080_0934
 00:01:69 0:
@@ -2062,6 +2240,7 @@ ScrambleS_3Part2_Theme178.mp3
 00:35:06 0:
 00:36:27 2:cjc080_0941
 00:41:10 0:
+#
 ScrambleS_3Part2_Theme179.mp3
 00:00:00 3:cjc080_0942
 00:02:20 0:
@@ -2071,6 +2250,7 @@ ScrambleS_3Part2_Theme179.mp3
 00:11:21 0:
 00:12:28 2:cjc080_0945
 00:16:32 0:
+#
 ScrambleS_3Part2_Theme180.mp3
 00:00:00 3:cjc080_0946
 00:01:56 0:
@@ -2078,6 +2258,7 @@ ScrambleS_3Part2_Theme180.mp3
 00:06:53 0:
 00:07:72 2:cjc080_0948
 00:12:32 0:
+#
 ScrambleS_3Part2_Theme181.mp3
 00:00:00 3:cjc080_0949
 00:02:14 0:
@@ -2085,6 +2266,7 @@ ScrambleS_3Part2_Theme181.mp3
 00:06:14 0:
 00:07:25 2:cjc080_0951
 00:11:40 0:
+#
 ScrambleS_3Part2_Theme182.mp3
 00:00:00 3:cjc080_0952
 00:01:71 0:
@@ -2104,6 +2286,7 @@ ScrambleS_3Part2_Theme182.mp3
 00:29:34 0:
 00:30:52 2:cjc080_0960
 00:34:53 0:
+#
 ScrambleS_3Part2_Theme183.mp3
 00:00:00 3:cjc080_0961
 00:02:26 0:
@@ -2123,6 +2306,7 @@ ScrambleS_3Part2_Theme183.mp3
 00:33:56 0:
 00:34:63 2:cjc080_0969
 00:40:34 0:
+#
 ScrambleS_3Part3_Theme184.mp3
 00:00:00 3:cjc080_0970
 00:02:06 0:
@@ -2140,6 +2324,7 @@ ScrambleS_3Part3_Theme184.mp3
 00:30:24 0:
 00:31:39 2:cjc080_0977
 00:34:02 0:
+#
 ScrambleS_3Part3_Theme185.mp3
 00:00:00 3:cjc080_0978
 00:02:12 0:
@@ -2159,6 +2344,7 @@ ScrambleS_3Part3_Theme185.mp3
 00:42:12 0:
 00:43:25 2:cjc080_0986
 00:47:66 0:
+#
 ScrambleS_3Part3_Theme186.mp3
 00:00:00 3:cjc080_0987
 00:02:00 0:
@@ -2182,6 +2368,7 @@ ScrambleS_3Part3_Theme186.mp3
 00:42:70 0:
 00:44:05 2:cjc080_0997
 00:47:36 0:
+#
 ScrambleS_3Part3_Theme187.mp3
 00:00:00 3:cjc080_0998
 00:02:22 0:
@@ -2207,6 +2394,7 @@ ScrambleS_3Part3_Theme187.mp3
 00:54:38 0:
 00:55:10 2:cjc080_1009
 00:57:50 0:
+#
 ScrambleS_3Part3_Theme188.mp3
 00:00:00 3:cjc080_1010
 00:01:62 0:
@@ -2226,6 +2414,7 @@ ScrambleS_3Part3_Theme188.mp3
 00:37:20 0:
 00:38:33 2:cjc080_1018
 00:41:73 0:
+#
 ScrambleS_3Part3_Theme189.mp3
 00:00:00 3:cjc080_1019
 00:02:12 0:
@@ -2243,6 +2432,7 @@ ScrambleS_3Part3_Theme189.mp3
 00:29:60 0:
 00:30:69 2:cjc080_1026
 00:33:05 0:
+#
 ScrambleS_3Part3_Theme190.mp3
 00:00:00 3:cjc080_1027
 00:01:50 0:
@@ -2264,6 +2454,7 @@ ScrambleS_3Part3_Theme190.mp3
 00:37:40 0:
 00:38:65 2:cjc080_1036
 00:41:71 0:
+#
 ScrambleS_3Part3_Theme191.mp3
 00:00:00 3:cjc080_1037
 00:01:69 0:
@@ -2295,6 +2486,7 @@ ScrambleS_3Part3_Theme191.mp3
 01:11:68 0:
 01:12:48 2:cjc080_1051
 01:18:45 0:
+#
 ScrambleS_3Part3_Theme192.mp3
 00:00:00 3:cjc080_1052
 00:01:69 0:
@@ -2334,6 +2526,7 @@ ScrambleS_3Part3_Theme192.mp3
 01:30:73 0:
 01:31:55 2:cjc080_1070
 01:34:67 0:
+#
 ScrambleS_3Part3_Theme193.mp3
 00:00:00 3:cjc080_1071
 00:01:66 0:
@@ -2365,6 +2558,7 @@ ScrambleS_3Part3_Theme193.mp3
 01:03:69 0:
 01:04:43 2:cjc080_1085
 01:07:49 0:
+#
 ScrambleS_3Part3_Theme194.mp3
 00:00:00 3:cjc080_1086
 00:02:08 0:
@@ -2400,6 +2594,7 @@ ScrambleS_3Part3_Theme194.mp3
 01:21:41 0:
 01:22:21 2:cjc080_1102
 01:25:31 0:
+#
 ScrambleS_3Part3_Theme195.mp3
 00:00:00 3:cjc080_1103
 00:02:04 0:
@@ -2427,6 +2622,7 @@ ScrambleS_3Part3_Theme195.mp3
 01:02:05 0:
 01:02:52 2:cjc080_1115
 01:07:55 0:
+#
 ScrambleS_3Part3_Theme196.mp3
 00:00:00 3:cjc080_1116
 00:02:14 0:
@@ -2458,6 +2654,7 @@ ScrambleS_3Part3_Theme196.mp3
 01:11:23 0:
 01:12:03 2:cjc080_1130
 01:16:01 0:
+#
 ScrambleS_3Part3_Theme197.mp3
 00:00:00 3:cjc080_1131
 00:01:66 0:
@@ -2497,6 +2694,7 @@ ScrambleS_3Part3_Theme197.mp3
 01:19:11 0:
 01:19:62 2:cjc080_1149
 01:23:50 0:
+#
 ScrambleS_3Part3_Theme198.mp3
 00:00:00 3:cjc080_1150
 00:01:66 0:
@@ -2512,6 +2710,7 @@ ScrambleS_3Part3_Theme198.mp3
 00:31:27 0:
 00:32:07 2:cjc080_1156
 00:38:73 0:
+#
 ScrambleS_3Part3_Theme199.mp3
 00:00:00 3:cjc080_1157
 00:01:71 0:
@@ -2531,6 +2730,7 @@ ScrambleS_3Part3_Theme199.mp3
 00:39:60 0:
 00:40:48 2:cjc080_1165
 00:44:36 0:
+#
 ScrambleS_3Part3_Theme200.mp3
 00:00:00 3:cjc080_1166
 00:01:32 0:
@@ -2556,6 +2756,7 @@ ScrambleS_3Part3_Theme200.mp3
 00:38:26 0:
 00:39:02 2:cjc080_1177
 00:40:62 0:
+#
 ScrambleS_3Part3_Theme201.mp3
 00:00:00 3:cjc080_1178
 00:01:56 0:
@@ -2583,6 +2784,7 @@ ScrambleS_3Part3_Theme201.mp3
 00:45:12 0:
 00:45:65 2:cjc080_1190
 00:48:57 0:
+#
 ScrambleS_3Part3_Theme202.mp3
 00:00:00 3:cjc080_1191
 00:01:58 0:
@@ -2610,6 +2812,7 @@ ScrambleS_3Part3_Theme202.mp3
 00:48:00 0:
 00:48:53 2:cjc080_1203
 00:52:28 0:
+#
 ScrambleS_3Part3_Theme203.mp3
 00:00:00 3:cjc080_1204
 00:01:42 0:
@@ -2637,6 +2840,7 @@ ScrambleS_3Part3_Theme203.mp3
 00:44:60 0:
 00:45:32 2:cjc080_1216
 00:50:50 0:
+#
 ScrambleS_3Part3_Theme204.mp3
 00:00:00 3:cjc080_1217
 00:01:54 0:
@@ -2664,6 +2868,7 @@ ScrambleS_3Part3_Theme204.mp3
 00:44:16 0:
 00:44:73 2:cjc080_1229
 00:48:28 0:
+#
 ScrambleS_3Part3_Theme205.mp3
 00:00:00 3:cjc080_1230
 00:01:48 0:
@@ -2675,6 +2880,7 @@ ScrambleS_3Part3_Theme205.mp3
 00:16:14 0:
 00:17:31 2:cjc080_1234
 00:20:26 0:
+#
 ScrambleS_3Part3_Theme206.mp3
 00:00:00 3:cjc080_1235
 00:01:62 0:
@@ -2688,6 +2894,7 @@ ScrambleS_3Part3_Theme206.mp3
 00:23:26 0:
 00:24:43 2:cjc080_1240
 00:31:02 0:
+#
 ScrambleS_3Part3_Theme207.mp3
 00:00:00 3:cjc080_1241
 00:01:48 0:
@@ -2701,6 +2908,7 @@ ScrambleS_3Part3_Theme207.mp3
 00:25:23 0:
 00:26:44 2:cjc080_1246
 00:29:19 0:
+#
 ScrambleS_3Part3_Theme208.mp3
 00:00:00 3:cjc080_1247
 00:01:42 0:
@@ -2714,6 +2922,7 @@ ScrambleS_3Part3_Theme208.mp3
 00:27:41 0:
 00:28:59 2:cjc080_1252
 00:32:33 0:
+#
 ScrambleS_3Part3_Theme209.mp3
 00:00:00 3:cjc080_1253
 00:01:52 0:
@@ -2731,6 +2940,7 @@ ScrambleS_3Part3_Theme209.mp3
 00:29:44 0:
 00:30:59 2:cjc080_1260
 00:33:62 0:
+#
 ScrambleS_3Part4_Theme210.mp3
 00:00:00 3:cjc080_1261
 00:01:52 0:
@@ -2754,6 +2964,7 @@ ScrambleS_3Part4_Theme210.mp3
 00:43:29 0:
 00:44:54 2:cjc080_1271
 00:49:37 0:
+#
 ScrambleS_3Part4_Theme211.mp3
 00:00:00 3:cjc080_1272
 00:01:52 0:
@@ -2779,6 +2990,7 @@ ScrambleS_3Part4_Theme211.mp3
 00:45:02 0:
 00:46:21 2:cjc080_1283
 00:49:04 0:
+#
 ScrambleS_3Part4_Theme212.mp3
 00:00:00 3:cjc080_1284
 00:01:58 0:
@@ -2800,6 +3012,7 @@ ScrambleS_3Part4_Theme212.mp3
 00:41:55 0:
 00:43:03 2:cjc080_1293
 00:46:09 0:
+#
 ScrambleS_3Part4_Theme213.mp3
 00:00:00 3:cjc080_1294
 00:01:66 0:
@@ -2825,6 +3038,7 @@ ScrambleS_3Part4_Theme213.mp3
 00:46:45 0:
 00:47:58 2:cjc080_1305
 00:50:07 0:
+#
 ScrambleS_3Part4_Theme214.mp3
 00:00:00 3:cjc080_1306
 00:01:62 0:
@@ -2850,6 +3064,7 @@ ScrambleS_3Part4_Theme214.mp3
 00:48:71 0:
 00:50:09 2:cjc080_1317
 00:53:70 0:
+#
 ScrambleS_3Part4_Theme215.mp3
 00:00:00 3:cjc080_1318
 00:02:18 0:
@@ -2877,6 +3092,7 @@ ScrambleS_3Part4_Theme215.mp3
 00:51:32 0:
 00:52:49 2:cjc080_1330
 00:59:51 0:
+#
 ScrambleS_3Part4_Theme216.mp3
 00:00:00 3:cjc080_1331
 00:01:69 0:
@@ -2904,6 +3120,7 @@ ScrambleS_3Part4_Theme216.mp3
 00:48:38 0:
 00:49:49 2:cjc080_1343
 00:52:24 0:
+#
 ScrambleS_3Part4_Theme217.mp3
 00:00:00 3:cjc080_1344
 00:01:64 0:
@@ -2931,6 +3148,7 @@ ScrambleS_3Part4_Theme217.mp3
 00:51:26 0:
 00:52:41 2:cjc080_1356
 00:55:34 0:
+#
 ScrambleS_3Part4_Theme218.mp3
 00:00:00 3:cjc080_1357
 00:01:60 0:
@@ -2960,6 +3178,7 @@ ScrambleS_3Part4_Theme218.mp3
 00:54:60 0:
 00:56:06 2:cjc080_1370
 00:58:60 0:
+#
 ScrambleS_3Part4_Theme219.mp3
 00:00:00 3:cjc080_1371
 00:01:60 0:
@@ -2983,6 +3202,7 @@ ScrambleS_3Part4_Theme219.mp3
 00:43:60 0:
 00:45:00 2:cjc080_1381
 00:49:45 0:
+#
 ScrambleS_3Part4_Theme220.mp3
 00:00:00 3:cjc080_1382
 00:01:66 0:
@@ -3010,6 +3230,7 @@ ScrambleS_3Part4_Theme220.mp3
 00:49:25 0:
 00:50:46 2:cjc080_1394
 00:56:00 0:
+#
 ScrambleS_3Part4_Theme221.mp3
 00:00:00 3:cjc080_1395
 00:01:69 0:
@@ -3037,6 +3258,7 @@ ScrambleS_3Part4_Theme221.mp3
 00:47:52 0:
 00:48:71 2:cjc080_1407
 00:51:34 0:
+#
 ScrambleS_3Part4_Theme222.mp3
 00:00:00 3:cjc080_1408
 00:02:00 0:
@@ -3064,6 +3286,7 @@ ScrambleS_3Part4_Theme222.mp3
 00:52:69 0:
 00:54:15 2:cjc080_1420
 00:56:33 0:
+#
 ScrambleS_3Part4_Theme223.mp3
 00:00:00 3:cjc080_1421
 00:01:71 0:
@@ -3087,6 +3310,7 @@ ScrambleS_3Part4_Theme223.mp3
 00:41:49 0:
 00:42:61 2:cjc080_1431
 00:46:27 0:
+#
 ScrambleS_3Part4_Theme224.mp3
 00:00:00 3:cjc080_1432
 00:02:04 0:
@@ -3112,6 +3336,7 @@ ScrambleS_3Part4_Theme224.mp3
 00:43:70 0:
 00:45:10 2:cjc080_1443
 00:48:12 0:
+#
 ScrambleS_3Part4_Theme225.mp3
 00:00:00 3:cjc080_1444
 00:01:66 0:
@@ -3139,6 +3364,7 @@ ScrambleS_3Part4_Theme225.mp3
 00:48:65 0:
 00:50:07 2:cjc080_1456
 00:52:12 0:
+#
 ScrambleS_3Part4_Theme226.mp3
 00:00:00 3:cjc080_1457
 00:01:73 0:
@@ -3164,6 +3390,7 @@ ScrambleS_3Part4_Theme226.mp3
 00:50:56 0:
 00:51:71 2:cjc080_1468
 00:57:03 0:
+#
 ScrambleS_3Part4_Theme227.mp3
 00:00:00 3:cjc080_1469
 00:01:71 0:
@@ -3189,6 +3416,7 @@ ScrambleS_3Part4_Theme227.mp3
 00:46:60 0:
 00:47:70 2:cjc080_1480
 00:51:62 0:
+#
 ScrambleS_3Part4_Theme228.mp3
 00:00:00 3:cjc080_1481
 00:01:73 0:
@@ -3214,6 +3442,7 @@ ScrambleS_3Part4_Theme228.mp3
 00:44:34 0:
 00:45:57 2:cjc080_1492
 00:49:51 0:
+#
 ScrambleS_3Part4_Theme229.mp3
 00:00:00 3:cjc080_1493
 00:01:66 0:
@@ -3239,6 +3468,7 @@ ScrambleS_3Part4_Theme229.mp3
 00:44:44 0:
 00:45:57 2:cjc080_1504
 00:50:11 0:
+#
 ScrambleS_3Part4_Theme230.mp3
 00:00:00 3:cjc080_1505
 00:01:50 0:
@@ -3262,6 +3492,7 @@ ScrambleS_3Part4_Theme230.mp3
 00:43:35 0:
 00:44:50 2:cjc080_1515
 00:48:49 0:
+#
 ScrambleS_3Part4_Theme231.mp3
 00:00:00 3:cjc080_1516
 00:01:54 0:
@@ -3285,6 +3516,7 @@ ScrambleS_3Part4_Theme231.mp3
 00:42:49 0:
 00:43:68 2:cjc080_1526
 00:47:68 0:
+#
 ScrambleS_3Part4_Theme232.mp3
 00:00:00 3:cjc080_1527
 00:01:66 0:
@@ -3308,6 +3540,7 @@ ScrambleS_3Part4_Theme232.mp3
 00:40:03 0:
 00:41:18 2:cjc080_1537
 00:44:40 0:
+#
 ScrambleS_3Part4_Theme233.mp3
 00:00:00 3:cjc080_1538
 00:01:68 0:
@@ -3335,6 +3568,7 @@ ScrambleS_3Part4_Theme233.mp3
 00:45:08 0:
 00:46:25 2:cjc080_1550
 00:50:13 0:
+#
 ScrambleS_3Part4_Theme234.mp3
 00:00:00 3:cjc080_1551
 00:01:69 0:
@@ -3360,6 +3594,7 @@ ScrambleS_3Part4_Theme234.mp3
 00:45:18 0:
 00:46:39 2:cjc080_1562
 00:48:67 0:
+#
 ScrambleS_3Part4_Theme235.mp3
 00:00:00 3:cjc080_1563
 00:02:00 0:
@@ -3385,6 +3620,7 @@ ScrambleS_3Part4_Theme235.mp3
 00:44:46 0:
 00:45:59 2:cjc080_1574
 00:48:67 0:
+#
 ScrambleS_3Part4_Theme236.mp3
 00:00:00 3:cjc080_1575
 00:02:04 0:
@@ -3410,6 +3646,7 @@ ScrambleS_3Part4_Theme236.mp3
 00:47:70 0:
 00:49:10 2:cjc080_1586
 00:53:53 0:
+#
 ScrambleS_3Part4_Theme237.mp3
 00:00:00 3:cjc080_1587
 00:01:73 0:
@@ -3437,6 +3674,7 @@ ScrambleS_3Part4_Theme237.mp3
 00:52:47 0:
 00:53:70 2:cjc080_1599
 00:57:35 0:
+#
 ScrambleS_3Part4_Theme238.mp3
 00:00:00 3:cjc080_1600
 00:01:62 0:
@@ -3464,6 +3702,7 @@ ScrambleS_3Part4_Theme238.mp3
 00:56:24 0:
 00:57:45 2:cjc080_1612
 01:00:21 0:
+#
 ScrambleS_3Part4_Theme239.mp3
 00:00:00 3:cjc080_1613
 00:02:00 0:
@@ -3487,6 +3726,7 @@ ScrambleS_3Part4_Theme239.mp3
 00:38:02 0:
 00:39:19 2:cjc080_1623
 00:42:31 0:
+#
 ScrambleS_3Part4_Theme240.mp3
 00:00:00 3:cjc080_1624
 00:01:50 0:
@@ -3512,6 +3752,7 @@ ScrambleS_3Part4_Theme240.mp3
 00:46:25 0:
 00:47:46 2:cjc080_1635
 00:50:41 0:
+#
 ScrambleS_3Part4_Theme241.mp3
 00:00:00 3:cjc080_1636
 00:01:71 0:
@@ -3535,6 +3776,7 @@ ScrambleS_3Part4_Theme241.mp3
 00:44:69 0:
 00:46:06 2:cjc080_1646
 00:49:72 0:
+#
 ScrambleS_3Part4_Theme242.mp3
 00:00:00 3:cjc080_1647
 00:01:73 0:
@@ -3562,6 +3804,7 @@ ScrambleS_3Part4_Theme242.mp3
 00:51:34 0:
 00:52:47 2:cjc080_1659
 00:55:44 0:
+#
 ScrambleS_3Part4_Theme243.mp3
 00:00:00 3:cjc080_1660
 00:01:66 0:
@@ -3587,6 +3830,7 @@ ScrambleS_3Part4_Theme243.mp3
 00:46:51 0:
 00:47:64 2:cjc080_1671
 00:51:32 0:
+#
 ScrambleS_3Part4_Theme244.mp3
 00:00:00 3:cjc080_1672
 00:01:73 0:
@@ -3614,6 +3858,7 @@ ScrambleS_3Part4_Theme244.mp3
 00:51:42 0:
 00:52:63 2:cjc080_1684
 00:55:69 0:
+#
 ScrambleS_3Part4_Theme245.mp3
 00:00:00 3:cjc080_1685
 00:01:69 0:
@@ -3627,6 +3872,7 @@ ScrambleS_3Part4_Theme245.mp3
 00:21:47 0:
 00:22:56 2:cjc080_1690
 00:26:44 0:
+#
 ScrambleS_3Part4_Theme246.mp3
 00:00:00 3:cjc080_1691
 00:01:69 0:
@@ -3638,6 +3884,7 @@ ScrambleS_3Part4_Theme246.mp3
 00:15:09 0:
 00:16:30 2:cjc080_1695
 00:19:11 0:
+#
 ScrambleS_3Part4_Theme247.mp3
 00:00:00 3:cjc080_1696
 00:01:64 0:
@@ -3653,6 +3900,7 @@ ScrambleS_3Part4_Theme247.mp3
 00:27:59 0:
 00:28:70 2:cjc080_1702
 00:33:38 0:
+#
 ScrambleS_3Part4_Theme248.mp3
 00:00:00 3:cjc080_1703
 00:01:46 0:
@@ -3662,6 +3910,7 @@ ScrambleS_3Part4_Theme248.mp3
 00:11:52 0:
 00:12:69 2:cjc080_1706
 00:16:73 0:
+#
 ScrambleS_3Part4_Theme249.mp3
 00:00:00 3:cjc080_1707
 00:02:32 0:
@@ -3689,6 +3938,7 @@ ScrambleS_3Part4_Theme249.mp3
 00:59:53 0:
 01:00:62 2:cjc080_1719
 01:04:27 0:
+#
 ScrambleS_3Part4_Theme250.mp3
 00:00:00 3:cjc080_1720
 00:01:73 0:
